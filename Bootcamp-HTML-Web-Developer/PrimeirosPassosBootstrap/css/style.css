@@ -1,0 +1,13 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    background-image: linear-gradient(to right, #8DF06C, #9CD96C, #77F06C);
+}
+.navbar {
+    background-color: #a7c285;
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
