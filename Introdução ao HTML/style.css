@@ -1,0 +1,26 @@
+body{
+    color: rgba(128, 128, 128, 0.753);
+}
+
+.title,.subtitle,.post_title {
+    color: blue;
+}
+
+.post_title {
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 25px;
+}
+
+.post {
+    background-color: rgba(105, 109, 131, 0.651);
+    padding: 10px;
+    border: 3px solid black;
+    margin: 20px;
+}
+
+.post_content {
+    margin: 0;
+    margin-bottom: 20px;
+}
